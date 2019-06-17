@@ -1,0 +1,16 @@
+{
+  "name": "bean-math-tools-demo",
+  "version": "1.0.3",
+  "description": "a math functionality such as plus add minus times etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "math",
+    "tools",
+    "demo"
+  ],
+  "author": "bean",
+  "license": "ISC"
+}
