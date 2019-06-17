@@ -1,6 +1,6 @@
 {
   "name": "bean-math-tools-demo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "a math functionality such as plus add minus times etc.",
   "main": "index.js",
   "scripts": {
